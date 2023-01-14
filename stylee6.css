@@ -1,0 +1,59 @@
+body{
+	background-image: url(tema1.jpg);
+	background-size: cover;
+}
+ul{
+	margin: 0%;
+	padding: 0%;
+	background-color: rgba(44, 62, 80, 0.7);
+	position:!important;
+	font-family: serif	;
+	color: black;
+	overflow: hidden;
+	
+}
+li{
+float: right;
+display: inline-block;
+text-decoration: none;
+padding: 25px;
+font-size: 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+	}
+h1{
+	margin: 10px;
+	padding: 20px;
+	font-size: 40px;
+	color: black;
+	text-align: center;
+}
+.gambar{
+	margin: 20px;
+	padding: 10px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+}
+.gambar a{
+	padding: 10px;
+	margin: 20px;
+	font-size: 20px;
+	text-align: center;
+}
+.kembali{
+	padding: 10px;
+	margin: 20px;
+}
+ul li a:hover{
+	background-color:black;
+}
+p{
+	padding: 10px;
+	color: black;
+	font-size: 20px;
+	font-family: sans-serif;
+}

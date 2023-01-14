@@ -1,0 +1,95 @@
+body{ 
+	background-size: 0%;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(tema1.jpg);
+	background-size: cover;
+}
+
+ul{
+	margin: 0%;
+	padding: 0%;
+	background-color: rgba(44, 62, 80, 0.7);
+	position:!important;
+	font-family: serif	;
+	color: black;
+	overflow: hidden;
+	
+}
+li{
+float: right;
+display: inline-block;
+text-decoration: none;
+padding: 30px;
+font-size: 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+  color: #fc8807;
+  text-decoration: underline;
+}
+.img{
+	margin: 3px;
+	padding: 10px;
+	float: left;
+	padding-left: 10px;
+}
+.info{
+	height="25px;
+	width="30px;
+}
+.text{
+	text-align:center;
+	color: white;
+	position: absolute;
+	margin: 80px;
+	padding: 0%;
+	font-size: 5px;
+	background-color:  rgba(44, 62, 80, 0.7);
+	background-size: cover;
+}
+.back{
+	padding: 12px;
+	margin: 10px;
+	color: white;
+	font-size: 60px;
+	font-family: sans-serif;
+	text-align: center;
+	padding-top: 10%;
+	border-bottom: 3px solid #fc8807;
+}
+.back:hover{
+	text-decoration: underline;
+	color:  #fc8807;
+}
+.viw strong{
+	text-align: center;
+	margin: 20%px;
+	padding: 8px;
+	font-size: 40px;
+	color: black;
+ font-family: serif;
+}
+.text ul{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+	position: initial;
+	text-align: center;
+	border: 2px solid black;
+}
+.text ul li a{
+float: right;
+text-align: center;
+display: inline-block;
+text-decoration: none;
+padding: 38px;
+font-size: 25px;
+float: right;
+}
+.text ul li a{
+	
+}
